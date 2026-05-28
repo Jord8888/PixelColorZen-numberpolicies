@@ -61,6 +61,20 @@ contacts, storage, or other sensitive capability. (The app
 literally cannot make a network request — no `INTERNET`
 permission is declared.)
 
+## Sharing your completed images
+
+When you finish a puzzle, a "Share image" button appears on the
+completion dialog. Tapping it renders the completed picture as a
+PNG in the app's internal cache directory, then opens Android's
+standard share chooser so you can send the image to another app
+(Photos, Messages, social media, etc.). The choice of recipient
+app and what happens to the image after that is entirely yours.
+
+The PNG never leaves your device through this app. We do not
+receive a copy, do not log that you shared, and do not see which
+app you chose. The cache file is a normal app-private file that
+gets cleared along with the rest of the app cache.
+
 ## Ads and analytics
 
 There are no ads. There is no analytics. There is no telemetry.
@@ -87,4 +101,4 @@ canonical signal.
 ## Contact
 
 For questions about this policy, contact:
-**jord8888@gmail.com.com**
+**jpetersen@pgtek.com**
