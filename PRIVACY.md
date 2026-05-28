@@ -1,15 +1,15 @@
-# Privacy Policy — ColorFlow Number
+# Privacy Policy — Pixel Color Zen
 
 _Last updated: May 14, 2026_
 
-ColorFlow Number is a single-player coloring game published by Jordan
+Pixel Color Zen is a single-player coloring game published by Jordan
 Petersen. This policy describes, in plain language, what the app does
 and does not do with your information. It is written to be accurate
 for the Google Play "Data safety" form.
 
 ## Short version
 
-**ColorFlow Number does not collect, transmit, or share any personal
+**Pixel Color Zen does not collect, transmit, or share any personal
 information.** Every piece of data the app creates — puzzle progress,
 streak counts, perfect-run badges, play-mode preferences — lives on
 your device in Android's standard app-private `SharedPreferences`
@@ -42,7 +42,7 @@ any server.
 
 ## Cloud backup and device transfer
 
-- **Cloud backup is disabled.** ColorFlow Number opts out of Google
+- **Cloud backup is disabled.** Pixel Color Zen opts out of Google
   Drive auto-backup on every supported Android version (6.0
   through 15+). If you uninstall the app or wipe your device,
   your progress will not be restored from the cloud — because
@@ -55,7 +55,7 @@ any server.
 
 ## Permissions
 
-ColorFlow Number requests no Android runtime permissions. The
+Pixel Color Zen requests no Android runtime permissions. The
 manifest declares no internet, location, camera, microphone,
 contacts, storage, or other sensitive capability. (The app
 literally cannot make a network request — no `INTERNET`
@@ -69,7 +69,7 @@ Adjust, Sentry, Crashlytics, or any other third party.
 
 ## Children's privacy
 
-ColorFlow Number is family-friendly and suitable for children.
+Pixel Color Zen is family-friendly and suitable for children.
 Because the app collects no information and makes no network
 requests, it does not knowingly or unknowingly collect data
 from anyone, including children under 13. The app should comply
@@ -87,4 +87,4 @@ canonical signal.
 ## Contact
 
 For questions about this policy, contact:
-**jpetersen@pgtek.com**
+**jord8888@gmail.com.com**
