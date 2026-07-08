@@ -101,4 +101,4 @@ canonical signal.
 ## Contact
 
 For questions about this policy, contact:
-**jpetersen@pgtek.com**
+**westbount88@gmail.com**
